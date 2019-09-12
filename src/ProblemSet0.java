@@ -70,13 +70,13 @@ public class ProblemSet0 {
         System.out.println("\nHere's today's to-do list:\n\t- Go food shopping\n\t- Mow the lawn\n");
 
         /*
-        //  * Exercise 6.
-        //  *
-        //  * Print a square of text to the console.
-        //  */
-        //
-        // System.out.println("H E L L O\nEA\nLP\nLC\nO A P C);
-        //
+         * Exercise 6.
+         *
+         * Print a square of text to the console.
+         */
+
+        System.out.println("\nH E L L O\nE\tA\nL\tP\nL\tC\nO A P C S\n");
+
         // /*
         //  * Exercise 7.
         //  *
