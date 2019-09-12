@@ -54,7 +54,7 @@ public class ProblemSet0 {
          * Print a face to the console.
          */
 
-        System.out.println("    \\\\\\\\\\ ");
+        System.out.println("\n    \\\\\\\\\\ ");
         System.out.println("   +\"\"\"\"\"+ ");
         System.out.println(" (|  0 0  |) ");
         System.out.println("  |   ^   | ");
@@ -62,16 +62,14 @@ public class ProblemSet0 {
         System.out.println("   +-----+ \n");
 
         /*
-        //  * Exercise 5.
-        //  *
-        //  * Print a to-do list to the console.
-        //  */
-        //
-        // System.out.println("Here's today's to-do list:");
-        // System.out.println("\t- Go food shopping");
-        // System.out.println("\t- Mow the lawn\n");
-        //
-        // /*
+         * Exercise 5.
+         *
+         * Print a to-do list to the console.
+         */
+
+        System.out.println("\nHere's today's to-do list:\n\t- Go food shopping\n\t- Mow the lawn\n");
+
+        /*
         //  * Exercise 6.
         //  *
         //  * Print a square of text to the console.
